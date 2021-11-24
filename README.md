@@ -1,8 +1,8 @@
-# A Closer Look at Loss Weighting in Multi-Task Learning
-This repository contains the source code of Random Loss Weighting (RLW) from the paper, A Closer Look at Loss Weighting in Multi-Task Learning.
+# RLW
+This repository contains the source code of Random Loss Weighting (RLW) from our paper, A Closer Look at Loss Weighting in Multi-Task Learning.
 
 ## Note
-The implementation of baseline methods (state-of-the-art weighting strategies in multi-task learning) will be relased soon.
+The implementation of baseline methods (state-of-the-art weighting strategies in multi-task learning) in our paper will be released soon.
 
 ## Environment
 
