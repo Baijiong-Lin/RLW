@@ -51,6 +51,19 @@ For the flags of `weighting` and `random_distribution`, they represent
 To train on any datasets, `cd DATASETNAME` first and then simple run `python -u train_DATASETNAME.py --FLAG_NAME 'FLAG_OPTION'`.
 
 
+## Citation
+
+If you found this code/work to be useful in your own research, please considering citing the following:
+
+```latex
+@inproceedings{lin2021rlw,
+  title={A Closer Look at Loss Weighting in Multi-Task Learning},
+  author={Lin, Baijiong and Ye, Feiyang and Zhang, Yu},
+  booktitle={arXiv preprint arXiv:2111.10603},
+  year={2021}
+}
+```
+
 
 ## Acknowledgement
 
