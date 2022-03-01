@@ -2,7 +2,7 @@
 This repository contains the source code of Random Loss Weighting (RLW) from our paper, A Closer Look at Loss Weighting in Multi-Task Learning.
 
 ## Note
-The implementation of baseline methods (state-of-the-art weighting strategies in multi-task learning) in our paper will be released soon.
+A unified, comprehensive, and extensible PyTorch library for multi-task learning, called LibMTL, is available at https://github.com/median-research-group/LibMTL.
 
 ## Environment
 
